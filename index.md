@@ -1,4 +1,4 @@
 ---
-title: Welcome to a title screen
+title: Welcome to a home page
 ---
-Having a nice day?
+Having a good day?
