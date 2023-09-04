@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Welcome to a title screen
 ---
-
+Having a nice day?
